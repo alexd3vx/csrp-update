@@ -1,0 +1,9 @@
+{
+  "versionCode": 10030,
+  "versionName": "1.0.30",
+  "apk": "https://raw.githubusercontent.com/alexd3vx/csrp-update/main/CSRP-Online.apk",
+  "sha256": "be973b6b7adbd3c72d437fe3607b4c363f323d1613659b3e629c4ef22411e861",
+  "size": 89669965,
+  "required": false,
+  "notes": "1.0.30: stream guard + diagnostics for the stock-world test"
+}
